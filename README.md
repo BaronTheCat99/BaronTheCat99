@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- I use discord/py 
-- Like Belgium for some reason 
-- Enjoy Pizza 🍕
+-I use discord/py 
+-Like Belgium for some reason 
+-Enjoy Pizza 🍕
 
 -->
