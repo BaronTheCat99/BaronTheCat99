@@ -1,11 +1,11 @@
 # Hi, it's me Baron 👋
 
-- I use discord/py 
+- I use discord
 - Like Belgium for some reason 
 - Enjoy Pizza 🍕
 
 ## Other things I do:
 
 - Use Discord pretty much for a living
-- Program Discord.py bots
 - Wannabe JS Developer
+- Wannabe Discord.js Developer
